@@ -1,7 +1,6 @@
 import pandas as pd
 import csv
 
-rows = []
 
 df = pd.read_csv('project130_2.csv')
 
